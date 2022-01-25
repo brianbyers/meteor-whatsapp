@@ -1,4 +1,6 @@
  Meteor Whatsapp
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/96a5457a-cc13-41ca-a587-2bdecefb26af.svg?orgId=521549019486)](https://app.soluble.cloud/repos/details/github.com/brianbyers/meteor-whatsapp?orgId=521549019486)  
 ==============
 
 ### Step 1 - Create the project
